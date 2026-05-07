@@ -12,3 +12,5 @@ The prototype models the main architecture components as workflow nodes, includi
 - Audit Log and Reporting Dashboard
 
 The prototype is not intended to be a complete privacy compliance system. It is a proof of concept demonstrating how privacy compliance requests can be classified, routed to specialist agents, checked, and logged within an agentic workflow.
+
+This prototype generates a png and svg files that model the proposed agentic AI architecture.
