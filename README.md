@@ -1,4 +1,4 @@
-# Agentic AI Privacy Compliance Prototype
+# Agentic AI Privacy Compliance Architecture Prototype
 
 This repository contains a simple Python prototype implementing the orchestration logic of the proposed agentic AI architecture for privacy compliance automation.
 
