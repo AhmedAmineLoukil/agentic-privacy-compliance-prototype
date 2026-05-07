@@ -13,4 +13,6 @@ The prototype models the main architecture components as workflow nodes, includi
 
 The prototype is not intended to be a complete privacy compliance system. It is a proof of concept demonstrating how privacy compliance requests can be classified, routed to specialist agents, checked, and logged within an agentic workflow.
 
-This prototype generates a png and svg files that model the proposed agentic AI architecture. (Please download them and open them locally to have a better visibility)
+This prototype generates a png and svg files that model the proposed agentic AI architecture with the help of Graphviz (please install it before running the code).Please download the generated files and open them locally to have a better visibility.
+
+Only run Agentic_AI_Architecture.py to generate the png and svg files. The graph_redering.py file is only used for design purposes.
